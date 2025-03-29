@@ -40,8 +40,8 @@ isFraud - The "isFraud" label in this dataset denotes transactions initiated by 
 
 isFlaggedFraud - isFlaggedFraud signifies a business strategy aimed at monitoring substantial transfers between accounts. This flag is activated in response to attempts that are deemed illegal or suspicious within the system.
 
-#Research Question:
-##With increase in emerging fraud techniques, How well does the fraud detection system adapt to these emerging fraud techniques and evolve with them in the rapidly changing landscape of online payment security? if not, how to improve the model to adapt to emerging fraud techniques?
+# Research Question:
+## With increase in emerging fraud techniques, How well does the fraud detection system adapt to these emerging fraud techniques and evolve with them in the rapidly changing landscape of online payment security? if not, how to improve the model to adapt to emerging fraud techniques?
 
 Link for dataset is:
 https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
