@@ -1,20 +1,20 @@
 # EL4013 : Programming with Data (Python Coursework Project) created by: Asad Ali
-#Project Description:
-##Project Overview
+# Project Description:
+## Project Overview
 The Online Payment Fraud Detection System is an advanced cybersecurity solution designed to identify and prevent fraudulent activities in online transactions. With the increasing prevalence of online payment platforms, ensuring the security of financial transactions has become a critical concern. This project aims to leverage machine learning and data analytics techniques to develop a robust fraud detection system for online payment systems.
 
-##Key Features:
+## Key Features:
 
 1.   Real-time Monitoring: Continuous analysis of transactions for anomalies.
 2.   Machine Learning Models: Implement predictive models for fraud identification.
 3. Feature Engineering: Extract and use relevant transaction data features.
 
-##Dataset Description
+## Dataset Description
 Limited access to public datasets poses a challenge, particularly in the burgeoning field of mobile money transactions within the financial services domain. Researchers, including our team focusing on fraud detection, face difficulties due to the inherent privacy associated with financial transactions, resulting in a scarcity of publicly accessible datasets.
 
 This dataset is created using PaySim. PaySim serves as a mobile money transaction simulator, generated from a subset of actual transactions derived from a month's worth of financial logs from a mobile money service operating in an African nation. The original logs were supplied by a multinational company, a key player in the mobile financial service sector, presently operational in over 14 countries globally.
 
-##Overview of Dataset
+## Overview of Dataset
 This is a sample of 1 row with headers explanation:
 
 1,PAYMENT,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
